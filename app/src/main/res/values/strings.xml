@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="haha">一是赵某未遵守八达岭野生动物世界猛兽区严禁下车的规定，对园区相关管理人员和其他游客的警示未予理会，擅自下车，导致其被虎攻击受伤。二是周某见女儿被虎拖走后，救女心切，未遵守八达岭野生动物世界猛兽区严禁下车的规定，施救措施不当，导致其被虎攻击死亡。
+
+　　八达岭野生动物世界在事发前进行了口头告知，发放了“六严禁”告知单，与赵某签订了《自驾车入园游览车损责任协议书》，猛兽区游览沿途设置了明显的警示牌和指示牌，事发后工作开展有序，及时进行了现场处置和救援。结合原因分析，调查组认定“7·23”东北虎致游客伤亡事件不属于生产安全责任事故。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
